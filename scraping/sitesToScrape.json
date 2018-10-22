@@ -1,0 +1,17 @@
+{
+  "cnn": {
+	"main" : {"link": "http://www.cnn.com/"},
+    "top_stories": {"link" : "http://rss.cnn.com/rss/cnn_topstories.rss"}
+  },
+  "bbc":{},
+  "foxnews":{},
+  "infowars":{},
+  "onion":{},
+  "aljazeera":{},
+  "xinhua":{
+	  "link": "http://www.xinhuanet.com/english/"
+	  },
+  "voiceOfAmerica":{},
+  "huffPost":{},
+  "NYT":{}
+}
