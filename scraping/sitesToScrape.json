@@ -1,7 +1,7 @@
 {
   "cnn": {
-	"main" : {"link": "http://www.cnn.com/"},
-    "top_stories": {"link" : "http://rss.cnn.com/rss/cnn_topstories.rss"}
+    "top_stories": {"link" : "http://rss.cnn.com/rss/cnn_topstories.rss"},
+    "world": {"link" : "http://rss.cnn.com/rss/cnn_world.rss"}
   },
   "bbc":{},
   "foxnews":{},
