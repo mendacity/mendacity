@@ -1,17 +1,64 @@
 {
   "cnn": {
-    "top_stories": {"link" : "http://rss.cnn.com/rss/cnn_topstories.rss"},
-    "world": {"link" : "http://rss.cnn.com/rss/cnn_world.rss"}
+      "top_stories": {"link" : "http://rss.cnn.com/rss/cnn_topstories.rss"},
+      "world": {"link" : "http://rss.cnn.com/rss/cnn_world.rss"},
+      "country_US": {"link" : "http://rss.cnn.com/rss/cnn_us.rss"},
+      "politics": {"link" : "http://rss.cnn.com/rss/cnn_allpolitics.rss"},
+      "health": {"link" : "http://rss.cnn.com/rss/cnn_health.rss"},
+      "tech": {"link" : "  http://rss.cnn.com/rss/cnn_tech.rss"}
   },
-  "bbc":{},
-  "foxnews":{},
-  "infowars":{},
-  "onion":{},
-  "aljazeera":{},
-  "xinhua":{
-	  "link": "http://www.xinhuanet.com/english/"
+  
+  "bbc":{
+	  "top_stories": {"link" : "http://feeds.bbci.co.uk/news/rss.xml"},
+	  "world": {"link" : "http://feeds.bbci.co.uk/news/world/rss.xml"},
+	  "country_UK": {"link" : "http://feeds.bbci.co.uk/news/uk/rss.xml"},
+	  "politics": {"link" : "http://feeds.bbci.co.uk/news/politics/rss.xml"},
+	  "health": {"link" : "http://feeds.bbci.co.uk/news/health/rss.xml"},
+	  "tech": {"link" : "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"}
+ 	  },
+  "foxnews":{
+	  "top_stories": {"link" : "https://feeds.foxnews.com/foxnews/most-popular"},
+	  "world": {"link" : "https://feeds.foxnews.com/foxnews/world"},
+	  "country_US": {"link" : "https://feeds.foxnews.com/foxnews/national"},
+	  "politics": {"link" : "https://feeds.foxnews.com/foxnews/politics"},
+	  "health": {"link" : "https://feeds.foxnews.com/foxnews/health"},
+	  "tech": {"link" : "https://feeds.foxnews.com/foxnews/tech"}
 	  },
-  "voiceOfAmerica":{},
-  "huffPost":{},
-  "NYT":{}
+  "infowars":{
+	  "top_stories": {"link" : "https://www.infowars.com/feed/custom_feed_rss"}
+	  },
+  "onion":{
+	  "top_stories": {"link" : "https://www.theonion.com/rss"},
+	  "politics": {"link" : "https://politics.theonion.com/rss"}
+	  },
+  "aljazeera":{
+	  "all": {"link" : "https://www.aljazeera.com/xml/rss/all.xml"}
+	  },
+  "xinhua":{
+	  "world": {"link" : "http://www.xinhuanet.com/english/rss/worldrss.xml"},
+	  "country_ZH": {"link" : "http://www.xinhuanet.com/english/rss/chinarss.xml"},
+	  "health": {"link" : "http://www.xinhuanet.com/english/rss/healthrss.xml"},
+	  "tech": {"link" : "http://www.xinhuanet.com/english/rss/scirss.xml"}
+	  },
+  "voiceOfAmerica":{
+	  "country_US": {"link" : "https://www.voanews.com/api/zq$omekvi_"},
+	  "politics": {"link" : "https://www.voanews.com/api/zuriqiepuiqm"},
+	  "health": {"link" : "https://www.voanews.com/api/zt$opeitim"},
+	  "tech": {"link" : "https://www.voanews.com/api/zyritequir"}	  
+	  },
+  "huffPost":{
+	  "world": {"link" : "https://www.huffingtonpost.com/section/world-news/feed"},
+	  "country_US": {"link" : "https://www.huffingtonpost.com/section/us-news/feed"},
+	  "politics": {"link" : "https://www.huffingtonpost.com/section/politics/feed"},
+	  "health": {"link" : "https://www.huffingtonpost.com/section/health/feed"},
+	  "tech": {"link" : "https://www.huffingtonpost.com/section/technology/feed"}
+	  },
+  "NYT":{
+	  "top_stories": {"link" : "https://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"},
+	  "world": {"link" : "https://www.nytimes.com/services/xml/rss/nyt/World.xml"},
+	  "country_US": {"link" : "https://www.nytimes.com/services/xml/rss/nyt/US.xml"},
+	  "politics": {"link" : "https://www.nytimes.com/services/xml/rss/nyt/Politics.xml"},
+	  "health": {"link" : "https://www.nytimes.com/services/xml/rss/nyt/Health.xml"},
+	  "tech": {"link" : "http://feeds.nytimes.com/nyt/rss/Technology.xml"}  
+	  }
 }

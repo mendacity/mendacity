@@ -1,12 +1,12 @@
 Get feedparser with:
 pip install feedparser
-pip install beautifulsoup4
+
+using urllib
+
+pip install newspaper3k
 
 Check out the sampleScrape.json...a json viewer: http://jsonviewer.stack.hu/
 
-
-
-going to need to find a way to identify video links and not expect them to have text...
 
 
 
