@@ -1,2 +1,2 @@
-0 9 * * * /etc/cron.daily/dailtScripts.sh
-0 19 * * * /etc/cron.daily/dailtScripts.sh
+0 9 * * * /etc/cron.daily/dailyScripts.sh
+0 19 * * * /etc/cron.daily/dailyScripts.sh
