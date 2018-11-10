@@ -81,7 +81,7 @@ for site in sites.keys():
 
 
 try:
-    with open('scraped_articles_{}.json'.format(dt.now().strftime("%Y-%m-%d")), 'w') as outfile:
+    with open('./data/scraped_articles_{}.json'.format(dt.now().strftime("%Y-%m-%d_%H-%M")), 'w') as outfile:
         json.dump(thisScrape, outfile)
 except Exception as e: print(e)
 

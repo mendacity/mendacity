@@ -1,0 +1,79 @@
+Pulling articles from:  cnn   top_stories   http://rss.cnn.com/rss/cnn_topstories.rss
+Pulling articles from:  cnn   world   http://rss.cnn.com/rss/cnn_world.rss
+Pulling articles from:  cnn   country_US   http://rss.cnn.com/rss/cnn_us.rss
+Pulling articles from:  cnn   politics   http://rss.cnn.com/rss/cnn_allpolitics.rss
+Pulling articles from:  cnn   health   http://rss.cnn.com/rss/cnn_health.rss
+Pulling articles from:  cnn   tech     http://rss.cnn.com/rss/cnn_tech.rss
+Pulling articles from:  bbc   top_stories   http://feeds.bbci.co.uk/news/rss.xml
+Pulling articles from:  bbc   world   http://feeds.bbci.co.uk/news/world/rss.xml
+Pulling articles from:  bbc   country_UK   http://feeds.bbci.co.uk/news/uk/rss.xml
+Pulling articles from:  bbc   politics   http://feeds.bbci.co.uk/news/politics/rss.xml
+Pulling articles from:  bbc   health   http://feeds.bbci.co.uk/news/health/rss.xml
+Pulling articles from:  bbc   tech   http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+Pulling articles from:  foxnews   top_stories   https://feeds.foxnews.com/foxnews/most-popular
+Pulling articles from:  foxnews   world   https://feeds.foxnews.com/foxnews/world
+Pulling articles from:  foxnews   country_US   https://feeds.foxnews.com/foxnews/national
+Pulling articles from:  foxnews   politics   https://feeds.foxnews.com/foxnews/politics
+Pulling articles from:  foxnews   health   https://feeds.foxnews.com/foxnews/health
+Pulling articles from:  foxnews   tech   https://feeds.foxnews.com/foxnews/tech
+Pulling articles from:  infowars   top_stories   https://www.infowars.com/feed/custom_feed_rss
+Failed on infowars top_stories https://www.infowars.com/proof-2018-midterm-elections-hacked/
+
+Failed on infowars top_stories https://www.infowars.com/learn-why-republicans-lost-the-house-and-how-to-take-it-back/
+
+Failed on infowars top_stories https://www.infowars.com/syrian-troops-discover-new-caches-of-us-built-munitions-in-ex-terrorist-redoubts/
+
+Failed on infowars top_stories https://www.infowars.com/alex-jones-visits-globalist-mural-confronted-by-crazed-beto-supporter/
+
+Failed on infowars top_stories https://www.infowars.com/roger-stone-predicted-sessions-firing-the-night-before-what-comes-next/
+
+Pulling articles from:  onion   top_stories   https://www.theonion.com/rss
+Pulling articles from:  onion   politics   https://politics.theonion.com/rss
+Pulling articles from:  aljazeera   all   https://www.aljazeera.com/xml/rss/all.xml
+Pulling articles from:  xinhua   world   http://www.xinhuanet.com/english/rss/worldrss.xml
+Pulling articles from:  xinhua   country_ZH   http://www.xinhuanet.com/english/rss/chinarss.xml
+Pulling articles from:  xinhua   health   http://www.xinhuanet.com/english/rss/healthrss.xml
+Pulling articles from:  xinhua   tech   http://www.xinhuanet.com/english/rss/scirss.xml
+Pulling articles from:  voiceOfAmerica   country_US   https://www.voanews.com/api/zq$omekvi_
+Pulling articles from:  voiceOfAmerica   politics   https://www.voanews.com/api/zuriqiepuiqm
+Pulling articles from:  voiceOfAmerica   health   https://www.voanews.com/api/zt$opeitim
+Pulling articles from:  voiceOfAmerica   tech   https://www.voanews.com/api/zyritequir
+Pulling articles from:  huffPost   world   https://www.huffingtonpost.com/section/world-news/feed
+Failed on huffPost world https://www.huffingtonpost.com/entry/huffpost-her-stories-fertility-series_us_5be0b8ebe4b04367a87f935d
+
+Failed on huffPost world https://www.huffingtonpost.com/entry/nazi-guard-trial-germany_us_5be1940ae4b04367a8809b96
+
+Failed on huffPost world https://www.huffingtonpost.com/entry/thousands-of-bodies-of-islamic-state-victims-found-in-mass-graves-in-iraq-un_us_5be16c43e4b04367a8803e0a
+
+Failed on huffPost world https://www.huffingtonpost.com/entry/sam-ballard-died-ate-slug-paralyzed_us_5be0715ee4b09d43e3217219
+
+Failed on huffPost world https://www.huffingtonpost.com/entry/jamal-khashoggi-sons-body-returned_us_5be02c06e4b09d43e320dafc
+
+Pulling articles from:  huffPost   country_US   https://www.huffingtonpost.com/section/us-news/feed
+Failed on huffPost country_US https://www.huffingtonpost.com/entry/trump-wins-by-losing_us_5be35ae4e4b0e84388933ab6
+
+Pulling articles from:  huffPost   politics   https://www.huffingtonpost.com/section/politics/feed
+Pulling articles from:  huffPost   health   https://www.huffingtonpost.com/section/health/feed
+Failed on huffPost health https://www.huffingtonpost.com/entry/meat-tax-red-meat-processed-meat_us_5be2be22e4b0dbe871a513d0
+
+Failed on huffPost health https://www.huffingtonpost.com/entry/ivfml-season-2-episode-4-why-dont-you-just-adopt-adoption-foster-care_us_5be0b707e4b09d43e321ec9b
+
+Failed on huffPost health https://www.huffingtonpost.comhttps://www.huffingtonpost.com/entry/whats-actually-in-your-food-3-ways-the-food-industry-is-becoming-more-transparent_us_5ace2005e4b09212968decea
+
+Pulling articles from:  huffPost   tech   https://www.huffingtonpost.com/section/technology/feed
+Failed on huffPost tech https://www.huffingtonpost.com/entry/gab-back-online_us_5be01052e4b09d43e32099a9
+
+Failed on huffPost tech https://www.huffingtonpost.com/entry/where-kids-find-hate-online-and-tips-for-how-to_us_5bdb79fce4b042b1178e7c00
+
+Failed on huffPost tech https://www.huffingtonpost.com/entry/google-walkout-sexual-harassment_us_5bd9bbdbe4b0da7bfc15e15d
+
+Failed on huffPost tech https://www.huffingtonpost.com/entry/inventor-of-world-wide-web-says-tech-giants-may-have-to-be-split-up_us_5bdaf5b7e4b019a7ab5ab55c
+
+Failed on huffPost tech https://www.huffingtonpost.com/entry/google-walkout-protest-harassment-employees_us_5bdaed43e4b019a7ab5aa66c
+
+Pulling articles from:  NYT   top_stories   https://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Pulling articles from:  NYT   world   https://www.nytimes.com/services/xml/rss/nyt/World.xml
+Pulling articles from:  NYT   country_US   https://www.nytimes.com/services/xml/rss/nyt/US.xml
+Pulling articles from:  NYT   politics   https://www.nytimes.com/services/xml/rss/nyt/Politics.xml
+Pulling articles from:  NYT   health   https://www.nytimes.com/services/xml/rss/nyt/Health.xml
+Pulling articles from:  NYT   tech   http://feeds.nytimes.com/nyt/rss/Technology.xml

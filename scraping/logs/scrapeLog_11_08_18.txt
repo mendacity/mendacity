@@ -1,0 +1,77 @@
+Pulling articles from:  cnn   top_stories   http://rss.cnn.com/rss/cnn_topstories.rss
+Pulling articles from:  cnn   world   http://rss.cnn.com/rss/cnn_world.rss
+Pulling articles from:  cnn   country_US   http://rss.cnn.com/rss/cnn_us.rss
+Pulling articles from:  cnn   politics   http://rss.cnn.com/rss/cnn_allpolitics.rss
+Pulling articles from:  cnn   health   http://rss.cnn.com/rss/cnn_health.rss
+Pulling articles from:  cnn   tech     http://rss.cnn.com/rss/cnn_tech.rss
+Pulling articles from:  bbc   top_stories   http://feeds.bbci.co.uk/news/rss.xml
+Pulling articles from:  bbc   world   http://feeds.bbci.co.uk/news/world/rss.xml
+Pulling articles from:  bbc   country_UK   http://feeds.bbci.co.uk/news/uk/rss.xml
+Pulling articles from:  bbc   politics   http://feeds.bbci.co.uk/news/politics/rss.xml
+Pulling articles from:  bbc   health   http://feeds.bbci.co.uk/news/health/rss.xml
+Pulling articles from:  bbc   tech   http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+Pulling articles from:  foxnews   top_stories   https://feeds.foxnews.com/foxnews/most-popular
+Pulling articles from:  foxnews   world   https://feeds.foxnews.com/foxnews/world
+Pulling articles from:  foxnews   country_US   https://feeds.foxnews.com/foxnews/national
+Pulling articles from:  foxnews   politics   https://feeds.foxnews.com/foxnews/politics
+Pulling articles from:  foxnews   health   https://feeds.foxnews.com/foxnews/health
+Pulling articles from:  foxnews   tech   https://feeds.foxnews.com/foxnews/tech
+Pulling articles from:  infowars   top_stories   https://www.infowars.com/feed/custom_feed_rss
+Failed on infowars top_stories https://www.infowars.com/expert-america-is-a-soft-target-for-asymmetrical-warfare-antifa-riots/
+
+Failed on infowars top_stories https://www.infowars.com/soy-based-formula-milk-linked-to-menstrual-pain-in-young-women/
+
+Failed on infowars top_stories https://www.infowars.com/f-35-squadron-tests-for-combat-deployments/
+
+Failed on infowars top_stories https://www.infowars.com/sessions-firing-kills-qanon-plus-meet-trumps-deep-state-demolition-man/
+
+Failed on infowars top_stories https://www.infowars.com/early-birds-have-lower-risk-of-breast-cancer-study/
+
+Pulling articles from:  onion   top_stories   https://www.theonion.com/rss
+Pulling articles from:  onion   politics   https://politics.theonion.com/rss
+Pulling articles from:  aljazeera   all   https://www.aljazeera.com/xml/rss/all.xml
+Pulling articles from:  xinhua   world   http://www.xinhuanet.com/english/rss/worldrss.xml
+Pulling articles from:  xinhua   country_ZH   http://www.xinhuanet.com/english/rss/chinarss.xml
+Pulling articles from:  xinhua   health   http://www.xinhuanet.com/english/rss/healthrss.xml
+Pulling articles from:  xinhua   tech   http://www.xinhuanet.com/english/rss/scirss.xml
+Pulling articles from:  voiceOfAmerica   country_US   https://www.voanews.com/api/zq$omekvi_
+Pulling articles from:  voiceOfAmerica   politics   https://www.voanews.com/api/zuriqiepuiqm
+Pulling articles from:  voiceOfAmerica   health   https://www.voanews.com/api/zt$opeitim
+Pulling articles from:  voiceOfAmerica   tech   https://www.voanews.com/api/zyritequir
+Pulling articles from:  huffPost   world   https://www.huffingtonpost.com/section/world-news/feed
+Failed on huffPost world https://www.huffingtonpost.com/entry/brazil-sexual-harassment-law-public-transportation_us_5be48c33e4b0e84388957620
+
+Failed on huffPost world https://www.huffingtonpost.com/entry/huffpost-her-stories-fertility-series_us_5be0b8ebe4b04367a87f935d
+
+Failed on huffPost world https://www.huffingtonpost.com/entry/nazi-guard-trial-germany_us_5be1940ae4b04367a8809b96
+
+Pulling articles from:  huffPost   country_US   https://www.huffingtonpost.com/section/us-news/feed
+Pulling articles from:  huffPost   politics   https://www.huffingtonpost.com/section/politics/feed
+Pulling articles from:  huffPost   health   https://www.huffingtonpost.com/section/health/feed
+Failed on huffPost health https://www.huffingtonpost.com/entry/read-this-if-you-take-anti-anxiety-medications-regularly_us_5be43812e4b0769d24ca123d
+
+Failed on huffPost health https://www.huffingtonpost.com/entry/obamacare-birth-control-mandate-trump_us_5be3cfb8e4b0dbe871a6d0ad
+
+Failed on huffPost health https://www.huffingtonpost.com/entry/highly-sensitive-man_us_5b464565e4b0e7c958f73cf4
+
+Failed on huffPost health https://www.huffingtonpost.com/entry/meat-tax-red-meat-processed-meat_us_5be2be22e4b0dbe871a513d0
+
+Failed on huffPost health https://www.huffingtonpost.com/entry/ivfml-season-2-episode-4-why-dont-you-just-adopt-adoption-foster-care_us_5be0b707e4b09d43e321ec9b
+
+Pulling articles from:  huffPost   tech   https://www.huffingtonpost.com/section/technology/feed
+Failed on huffPost tech https://www.huffingtonpost.com/entry/gab-back-online_us_5be01052e4b09d43e32099a9
+
+Failed on huffPost tech https://www.huffingtonpost.com/entry/where-kids-find-hate-online-and-tips-for-how-to_us_5bdb79fce4b042b1178e7c00
+
+Failed on huffPost tech https://www.huffingtonpost.com/entry/google-walkout-sexual-harassment_us_5bd9bbdbe4b0da7bfc15e15d
+
+Failed on huffPost tech https://www.huffingtonpost.com/entry/inventor-of-world-wide-web-says-tech-giants-may-have-to-be-split-up_us_5bdaf5b7e4b019a7ab5ab55c
+
+Failed on huffPost tech https://www.huffingtonpost.com/entry/google-walkout-protest-harassment-employees_us_5bdaed43e4b019a7ab5aa66c
+
+Pulling articles from:  NYT   top_stories   https://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Pulling articles from:  NYT   world   https://www.nytimes.com/services/xml/rss/nyt/World.xml
+Pulling articles from:  NYT   country_US   https://www.nytimes.com/services/xml/rss/nyt/US.xml
+Pulling articles from:  NYT   politics   https://www.nytimes.com/services/xml/rss/nyt/Politics.xml
+Pulling articles from:  NYT   health   https://www.nytimes.com/services/xml/rss/nyt/Health.xml
+Pulling articles from:  NYT   tech   http://feeds.nytimes.com/nyt/rss/Technology.xml
