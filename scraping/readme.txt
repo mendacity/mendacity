@@ -1,25 +1,25 @@
-Get feedparser with:
+Some dependencies that may need to be installed:
+
 pip install feedparser
-
-using urllib
-
 pip install newspaper3k
 
-Check out the sampleScrape.json...a json viewer: http://jsonviewer.stack.hu/
-
-
+using urllib
 
 
 Some helpful links
 https://www.pythonforbeginners.com/feedparser/using-feedparser-in-python
 https://stackoverflow.com/questions/14694482/converting-html-to-text-with-python
-https://www.crummy.com/software/BeautifulSoup/bs4/doc/#quick-start
 https://www.dataquest.io/blog/web-scraping-tutorial-python/
 
+For viewing json:
+http://jsonviewer.stack.hu/
+
+Check out the sampleScrape.json
 
 
 
 On AWS:
+(the version we use doesn't have git preloaded?  should check into that...)
 sudo yum install git
 
 git clone https://github.com/hussainzaidi/mendacity
